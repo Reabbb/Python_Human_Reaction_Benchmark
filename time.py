@@ -4,7 +4,7 @@ import pyautogui
 import keyboard
 import time
 
-# define green color range in HSV
+# define green color range in HSV feel free to change it to other colors if you would like to
 lower_green = np.array([40, 50, 50])
 upper_green = np.array([80, 255, 255])
 
