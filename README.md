@@ -6,4 +6,4 @@ When it detects the color green and says "Go," it automatically left clicks it f
 
 Make sure you have the required installments with pip cv2, numpy, pyautogui, and etc look at the imports in the python code for full required installments.
 
-Report any bugs: Abstraction#2203
+Contact for bugs Discord: Abstraction#2203 Discord ID: 554114131041583136 (Make sure to check for impersonators)
